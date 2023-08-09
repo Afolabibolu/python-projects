@@ -1,1 +1,1 @@
-Manipulating an excel file with python using the openpyxl module
+My python projects as a beginner
